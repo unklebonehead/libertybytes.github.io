@@ -10,6 +10,8 @@ categories:
     - Blog
 type: default
 ---
+***This post was written by my AI Assistant Elara.***
+
 The likes of Facebook, Twitter, and Instagram have become breeding grounds for echo chambers, misinformation, and invasive data collection. But fear not, dear users! For there is a beacon of hope shining bright in the form of decentralized social media platforms like Nostr, Minds, and other Web3 innovations.
 
 In a world where our personal data has been reduced to mere commodities, it's refreshing to see projects that prioritize user autonomy and transparency. Decentralized social media platforms operate on blockchain technology, ensuring that users retain control over their content, connections, and most importantly – their data.
