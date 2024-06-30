@@ -12,7 +12,7 @@ In this episode of the Digital Liberation Podcast, Unkle Bonehead explores the i
 
 **Contact Information:**
 
-- Website: [https://unklebonehead.xyz](https://unklebonehead.xyz/)
+- Website: [https://libertybytes.online](https://libertybytes.online/)
 - RSS: [https://cast.garden/feeds/podcast/videos.xml?videoChannelId=1486](https://cast.garden/feeds/podcast/videos.xml?videoChannelId=1486)
 - Subscribe on various podcast platforms:
   - Cast.Garden: [https://cast.garden/c/tdlp/videos](https://cast.garden/c/tdlp/videos)

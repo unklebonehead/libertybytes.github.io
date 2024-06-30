@@ -11,7 +11,7 @@ media_subpath: assets/img/thumbs/ep01-thumb.png
 **Intro:**
 
 - Host Unkle Bonehead introduces the podcast and its purpose: to help individuals navigate the world of online freedom and privacy.
-- He invites listeners to drop him a line at [unklebonehead@pm.me](mailto:unklebonehead@pm.me) or visit his website at [https://unklebonehead.xyz](https://unklebonehead.xyz/).
+- He invites listeners to drop him a line at [unklebonehead@pm.me](mailto:unklebonehead@pm.me) or visit his website at [https://libertybytes.online](https://libertybytes.online/).
 
 **Segment 1: Decentralization**
 
@@ -32,12 +32,12 @@ media_subpath: assets/img/thumbs/ep01-thumb.png
 
 **Outro:**
 
-- Unkle Bonehead thanks listeners and invites them to contact him at [unklebonehead@pm.me](mailto:unklebonehead@pm.me) or visit his website at [https://unklebonehead.xyz](https://unklebonehead.xyz/).
+- Unkle Bonehead thanks listeners and invites them to contact him at [unklebonehead@pm.me](mailto:unklebonehead@pm.me) or visit his website at [https://libertybytes.online)](https://libertybytes.online).
 
 **Contact Information:**
 
 - Email: [unklebonehead@pm.me](mailto:unklebonehead@pm.me)
-- Website: [https://unklebonehead.xyz](https://unklebonehead.xyz/)
+- Website: [https://libertybytes.online](https://libertybytes.online/)
 - RSS: [https://cast.garden/feeds/podcast/videos.xml?videoChannelId=1486](https://cast.garden/feeds/podcast/videos.xml?videoChannelId=1486)
 - Subscribe on various podcast platforms (listed below)
 
