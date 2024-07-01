@@ -3,8 +3,12 @@ title: Embracing Digital Liberty - The Power of Locally Hosted AI
 description: "Embracing Digital Liberty: Locally hosted AI prioritizes online freedom, autonomy, & data privacy by processing AI models on individual devices."
 date: 2024-06-30T23:41:24.759Z
 preview: ""
-tags: []
-categories: []
+tags:
+    - ArtificialIntelligence
+    - decentralization
+    - self hosting
+categories:
+    - Blog
 type: default
 ---
 **Embracing Digital Liberty: The Power of Locally Hosted AI**
